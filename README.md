@@ -8,5 +8,5 @@ MongoDb has been used as a NoSQL database.
 You can import the CSV file which will then be displayed in a Table which can be edited  
 for creating new element or editing current element or evene deleting the element.  
 Basically all the CRUD operations are possible  
-Then the resultant file can be exported as the same CSV file which will be downloaded 
+Then the resultant file can be exported as the same CSV file which will be downloaded  
 ✌️✌️
