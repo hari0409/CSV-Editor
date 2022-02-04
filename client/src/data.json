@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "state": "Tamil Nadu",
+    "code": "1"
+  },
+  {
+    "id": 2,
+    "state": "Assam",
+    "code": "2"
+  },
+  {
+    "id": 3,
+    "state": "Andhra Pradesh",
+    "code": "3"
+  },
+  {
+    "id": 4,
+    "state": "Karnataka",
+    "code": "4"
+  }
+]
